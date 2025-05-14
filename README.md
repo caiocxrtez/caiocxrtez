@@ -1,8 +1,8 @@
 ## Olá!! Eu sou o Caio Cortez 👋
 
-Desenvolvedor Java especializado em microservices e Spring Framework.
+Cientista de dados.
 
-Sou um desenvolvedor backend especializado na criação de APIs escaláveis e soluções robustas utilizando Java e Spring Boot. Possuo experiência com arquitetura de microsserviços, bancos de dados SQL(PostgreSQL) e NoSQL(MongoDB), além de infraestrutura em nuvem (AWS).
+Cientista de Dados focado em análise exploratória, machine learning e visualização de dados. Python, SQL, Scikit-learn, Power BI.
 
 ---
 
